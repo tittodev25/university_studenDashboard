@@ -1,6 +1,7 @@
 # university_studenDashboard
 
-Interactive data analysis dashboard for university student statistics.
+Interactive data analysis dashboard for university student statistics, created by:
+BRANDON VILLA and ARTURO MENDOZA
 
 ## Project Overview
 
